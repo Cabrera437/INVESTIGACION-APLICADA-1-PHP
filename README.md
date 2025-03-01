@@ -37,7 +37,7 @@
 
 > [Documento 📖]()
 
-> [presentación  📖]()
+> [presentación  📖](https://docs.google.com/presentation/d/1Py_nOesNiBUSLKX-Xrw9vNUTbRHBHTPT/edit?usp=sharing&ouid=102017508868576383953&rtpof=true&sd=true)
 
 
 
