@@ -33,7 +33,7 @@
 
 
 
-> [video📗📝]() 
+> [video📗📝](https://drive.google.com/file/d/1uDuccge5FHWqeVLNMGV-nvFMoVtUVRPW/view?usp=drive_link) 
 
 > [Documento 📖]()
 
