@@ -22,6 +22,8 @@ base de datos como api para hacer la llamada hacer los endpoints tambien al crea
 <br>
 •gestor de base datos MySql
 <br>
+•composer
+<br>
 
 
 
