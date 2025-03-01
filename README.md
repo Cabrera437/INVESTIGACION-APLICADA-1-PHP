@@ -4,7 +4,7 @@
 > [!IMPORTANT]
 > en este repositoria se encuentra la primera investigaión apliacada de php
 >  Para este proyecto se utilizo composer,xampp y se creo una base de datos llamada gestion_proyectos y asi ultiza esa
-base de datos como api para hacer la llamada hacer los endpoints tambien al crear un cuenta genera un JWT para cada usuario.
+base de datos como API para hacer la llamada hacer los endpoints tambien al crear un cuenta genera un JWT para cada usuario.
 > br
 
 
