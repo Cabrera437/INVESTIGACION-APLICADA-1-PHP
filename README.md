@@ -2,7 +2,30 @@
 #  DSS404 G03T
 
 > [!IMPORTANT]
-> en repositoria se encuentra la primera investigaión apliacada de php 
+> en este repositoria se encuentra la primera investigaión apliacada de php
+> br
+
+> [!IMPORTANT]
+> Para este proyecto se utilizo composer,xampp y se creo una base de datos llamada gestion_proyectos y asi ultiza esa
+base de datos como api para hacer la llamada hacer los endpoints tambien al crear un cuenta genera un JWT para cada usuario.
+
+> [!NOTE]
+> para ejecutar este proyecto se necesita tener composer instalado
+> y ejecutar el siguiente comando por la terminal : Composer require firebase/php-jwt
+
+<h2>:hammer: Tecnologia y heramientas ultizadsas para creacion del proyecto </h2> 
+•	php
+<br>
+•	xamp
+<br>
+•	visual studio code
+<br>
+•gestor de base datos MySql
+<br>
+
+
+
+
 <h2>:wave: Equipo </h2>
 <div style={padding: 10px}>
   <table style={margin: 0 auto}>
