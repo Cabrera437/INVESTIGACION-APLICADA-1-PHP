@@ -1,5 +1,5 @@
 
-#  🔵💻DSS404 G03TT
+#  🔵💻DSS404 G03T
 
 > [!IMPORTANT]
 > en este repositoria se encuentra la primera investigaión apliacada de php
