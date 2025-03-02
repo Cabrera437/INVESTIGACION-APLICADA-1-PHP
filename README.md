@@ -24,8 +24,8 @@ base de datos como API para hacer la llamada hacer los endpoints tambien al crea
 <br>
 •composer
 <br>
-
-
+•Docker
+<br>
 
 
 <h2>:wave: Equipo </h2>
@@ -45,8 +45,8 @@ base de datos como API para hacer la llamada hacer los endpoints tambien al crea
     <td><br> :computer: :wrench: :bulb:</td>
     <td> <br>:computer: :art: :bulb:</td>
     <td> <br> :computer: :art: :bulb:</td>
-    <td>P <br>:computer: :wrench: :bulb:</td>
-    <td> <br> :computer: :art: :bulb:</td>
+    <td><br>:computer: :wrench: :bulb:</td>
+    <td><br> :computer: :art: :bulb:</td>
   </tr>
 </table>
 </div>
@@ -60,9 +60,11 @@ base de datos como API para hacer la llamada hacer los endpoints tambien al crea
 
 > [video📗📝](https://drive.google.com/file/d/1uDuccge5FHWqeVLNMGV-nvFMoVtUVRPW/view?usp=drive_link) 
 
-> [Documento 📖]()
+> [Documento  de investigacion📖]()
 
 > [presentación  📖](https://docs.google.com/presentation/d/1Py_nOesNiBUSLKX-Xrw9vNUTbRHBHTPT/edit?usp=sharing&ouid=102017508868576383953&rtpof=true&sd=true)
+
+> [Documento  de Tecnico docker📖]()
 
 
 
