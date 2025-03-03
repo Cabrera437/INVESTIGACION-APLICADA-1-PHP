@@ -60,7 +60,7 @@ base de datos como API para hacer la llamada hacer los endpoints tambien al crea
 
 > [📌video🎥](https://drive.google.com/file/d/1uDuccge5FHWqeVLNMGV-nvFMoVtUVRPW/view?usp=drive_link)
 
-> [📌video explicacion codigo🎥]() 
+> [📌video explicacion codigo🎥](https://drive.google.com/file/d/1wBao_GhflSENq1UbgXgiz_qKlqeWzdol/view?usp=drive_link) 
 
 
 > [📌Documento  de investigacion📖](https://drive.google.com/file/d/1J0ioBZ9mDTs3Pkn3iiErLCtl7L_1KL-A/view?usp=sharing)
