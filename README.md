@@ -58,16 +58,16 @@ base de datos como API para hacer la llamada hacer los endpoints tambien al crea
 
 
 
-> [video📗📝](https://drive.google.com/file/d/1uDuccge5FHWqeVLNMGV-nvFMoVtUVRPW/view?usp=drive_link)
+> [📌video🎥](https://drive.google.com/file/d/1uDuccge5FHWqeVLNMGV-nvFMoVtUVRPW/view?usp=drive_link)
 
-> [video explicacion codigo📗📝]() 
+> [📌video explicacion codigo🎥]() 
 
 
-> [Documento  de investigacion📖](https://drive.google.com/file/d/1J0ioBZ9mDTs3Pkn3iiErLCtl7L_1KL-A/view?usp=sharing)
+> [📌Documento  de investigacion📖](https://drive.google.com/file/d/1J0ioBZ9mDTs3Pkn3iiErLCtl7L_1KL-A/view?usp=sharing)
 
-> [presentación  📖](https://docs.google.com/presentation/d/1Py_nOesNiBUSLKX-Xrw9vNUTbRHBHTPT/edit?usp=sharing&ouid=102017508868576383953&rtpof=true&sd=true)
+> [📌presentación  📖](https://docs.google.com/presentation/d/1Py_nOesNiBUSLKX-Xrw9vNUTbRHBHTPT/edit?usp=sharing&ouid=102017508868576383953&rtpof=true&sd=true)
 
-> [Documento  de Tecnico docker📖]()
+> [📌Documento  de Tecnico docker📖](https://drive.google.com/file/d/1N7qtQ8A57JxLlyX6JkkXxqT229ixj8SA/view?usp=sharing)
 
 
 
